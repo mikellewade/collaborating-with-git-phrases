@@ -2,7 +2,7 @@ def greet():
     print("Hello, World!")
 
 def chat():
-    print("How are you?")
+    print("Hey, let's have a chat")
     
 def farewell():
     print("Goodbye")
